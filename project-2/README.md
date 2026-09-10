@@ -158,7 +158,7 @@ The `Dashboard` sheet is the executive summary layer of the workbook. It pulls l
 
 **Screenshot:**
 
-![Sales Performance Dashboard](1.DASHBOARD.png)
+![Sales Performance Dashboard](1.sales_dashboard.png)
 
 ---
 
