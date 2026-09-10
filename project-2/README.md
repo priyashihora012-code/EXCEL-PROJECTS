@@ -158,7 +158,7 @@ The `Dashboard` sheet is the executive summary layer of the workbook. It pulls l
 
 **Screenshot:**
 
-![Sales Performance Dashboard](1_DASHBOARD.png)
+![Sales Performance Dashboard](1.DASHBOARD.png)
 
 ---
 
@@ -183,7 +183,7 @@ The `Dashboard` sheet is the executive summary layer of the workbook. It pulls l
 
 **Screenshot:**
 
-![Sales_Data Dataset](2_DATASET.png)
+![Sales_Data Dataset](2.DATASET.png)
 
 ---
 
@@ -221,7 +221,7 @@ Profit = 0.1966 × Sales + (-53.2722)
 
 **Screenshot:**
 
-![Linear Regression: Profit vs Sales](3_LINEAR-REG.png)
+![Linear Regression: Profit vs Sales](3.LINEAR-REG.png)
 
 ---
 
@@ -245,7 +245,7 @@ Growth % = (Current_Month_Sales − Previous_Month_Sales) / Previous_Month_Sales
 
 **Screenshot:**
 
-![Monthly Sales Trend & Growth](4_MONTHLY-SALES.png)
+![Monthly Sales Trend & Growth](4.MONTHLY-SALES.png)
 
 ---
 
@@ -270,7 +270,7 @@ Product Total = SUM(all regions for that product)
 
 **Screenshot:**
 
-![Pivot Table: Total Sales by Region and Product](5_PIVOT-TABLE.png)
+![Pivot Table: Total Sales by Region and Product](5.PIVOT-TABLE.png)
 
 ---
 
@@ -332,7 +332,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 ### Priya Shihora
 
 [![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-shihora -686533312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-shihora-686533312/)
 
 > *"A dashboard is only as good as the story it tells at a glance."*
 
